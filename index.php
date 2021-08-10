@@ -1,3 +1,3 @@
     <?php
 
-    //Aquivo de rotoas
+    //Aquivo de rotas
